@@ -2,15 +2,15 @@
 
 一个会待在桌面上、会互动、会聊天的 RIC 吉祥物小精灵。
 
-> Demo
-
-https://github.com/user-attachments/assets/f41f806a-4464-494a-9e4b-6b620f71aba7
-
 最开始只是想看看 Codex 桌宠能做到什么程度，后来索性开发了一个桌面 App，并给小锐接入 AI。
 
 小锐的动作帧先由 `hatch-pet` skill 生成，再用 `Electron` 补上桌面端框架。
 
 如果喜欢小锐，请点一个 Star 吧 <img src="assets/readme-star.png" height="24" alt="小锐 Star" />
+
+> Demo
+
+https://github.com/user-attachments/assets/f41f806a-4464-494a-9e4b-6b620f71aba7
 
 
 ## 所有动作
