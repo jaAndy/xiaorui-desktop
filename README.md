@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/f41f806a-4464-494a-9e4b-6b620f71aba7
 | 向右跑动 `runRight` | 拖拽身体向右移动时触发 | <img src="qa/previews-desktop/runRight.gif" width="120" height="117" alt="runRight" /> |
 | 向左跑动 `runLeft` | 拖拽身体向左移动时触发 | <img src="qa/previews-desktop/runLeft.gif" width="120" height="117" alt="runLeft" /> |
 | 打招呼 `wave` | 初次进入聊天时触发 | <img src="qa/previews-desktop/wave.gif" width="120" height="117" alt="wave" /> |
-| 跳跃 `jump` | 思考中出发。 | <img src="qa/previews-desktop/jump.gif" width="120" height="117" alt="jump" /> |
+| 跳跃 `jump` | 思考中触发。 | <img src="qa/previews-desktop/jump.gif" width="120" height="117" alt="jump" /> |
 | 失败 `failed` | 请求失败或出错时播放 | <img src="qa/previews-desktop/failed.gif" width="120" height="117" alt="failed" /> |
 | 等待 `waiting` | AI 回复等待中触发 | <img src="qa/previews-desktop/waiting.gif" width="120" height="117" alt="waiting" /> |
 | 工作中 `working` | AI 回复生成中触发 | <img src="qa/previews-desktop/working.gif" width="120" height="117" alt="working" /> |
